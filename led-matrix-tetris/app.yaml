@@ -1,0 +1,5 @@
+name: LED Matrix Tetris
+description: Playable Tetris on the onboard LED matrix, controlled with an analog joystick.
+ports: []
+bricks: []
+icon: 🕹️
